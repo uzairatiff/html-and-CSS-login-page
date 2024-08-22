@@ -1,0 +1,27 @@
+#one{
+    border: none;
+    background-color: transparent;
+    border-bottom: solid black 3px;
+}
+#two{
+    border: none;
+    background-color: transparent;
+    border-bottom: solid black 3px;
+}
+body{
+   background-image: url(https://img.freepik.com/premium-photo/fiery-geometric-fusion_1164924-24418.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1723248000&semt=ais_hybrid);
+
+}
+#main{
+    background-color: rgba(255, 243, 243, 0.911);
+    border-radius: 15px;
+    border: solid black 2px;
+    box-shadow:5px 5px 5px 5px rgb(88, 65, 65);
+}
+#para{
+    text-decoration: underline solid black 2px;
+}
+::placeholder{
+    font-size: 22px;
+    margin-left: 10px;
+}
